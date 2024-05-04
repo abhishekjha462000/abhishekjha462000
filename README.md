@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sameerjha462000)
+
+
+### Languages Used
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjha462000)
