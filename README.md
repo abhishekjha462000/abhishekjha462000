@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ### Languages Used
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjha462000)
+
+### stats
+![user stats](https://github-readme-stats.vercel.app/api?username=sameerjha462000)
