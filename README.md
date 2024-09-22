@@ -1,4 +1,4 @@
-### Hi there 👋 I am Abhishek (دانيال)
+### Hi there 👋 I am Abhishek Jha
 
 <!--
 **sameerjha462000/sameerjha462000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sameerjha462000)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha462000)
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjha462000)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha462000)
 
-![user stats](https://github-readme-stats.vercel.app/api?username=sameerjha462000)
+![user stats](https://github-readme-stats.vercel.app/api?username=abhishekjha462000)
