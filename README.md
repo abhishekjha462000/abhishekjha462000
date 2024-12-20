@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjha462000)
-
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha462000)
-
-![user stats](https://github-readme-stats.vercel.app/api?username=abhishekjha462000)
+<div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha462000">
+  <img src = "https://github-readme-stats.vercel.app/api?username=abhishekjha462000">
+</div>
 
 ### 📲 My Digital Portfolios
 
