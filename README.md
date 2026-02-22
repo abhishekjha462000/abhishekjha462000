@@ -74,14 +74,19 @@ class Abhishek:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekjha462000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha462000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages" width="40%"/>
+<!-- Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekjha462000&theme=tokyonight" alt="GitHub Stats" width="32%"/>
+<!-- Top Languages by Repo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekjha462000&theme=tokyonight" alt="Top Languages by Repo" width="32%"/>
+<!-- Top Languages by Commit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekjha462000&theme=tokyonight" alt="Top Languages by Commit" width="32%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekjha462000&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
+<!-- Streak Stats (stable alternative instance) -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=abhishekjha462000&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
 
 </div>
 
@@ -91,7 +96,8 @@ class Abhishek:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekjha462000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Stable community-hosted trophy instance -->
+[![trophy](https://github-trophies.vercel.app/?username=abhishekjha462000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
